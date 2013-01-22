@@ -1,0 +1,11 @@
+{
+  "name": "within",
+  "version": "0.0.1",
+  "description": "Check if an event came from within an element.",
+  "author": "stagas",
+  "licence": "MIT",
+  "development": {
+    "adamsanderson/trigger-event": "*"
+  },
+  "scripts": ["index.js"]
+}
