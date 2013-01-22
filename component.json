@@ -2,6 +2,7 @@
   "name": "within",
   "version": "0.0.1",
   "description": "Check if an event came from within an element.",
+  "keywords": ["dom", "events", "utility"],
   "author": "stagas",
   "licence": "MIT",
   "development": {
